@@ -38,7 +38,7 @@ The k=4 silhouette score is about **0.200**, indicating modest separation in the
 ```bash
 python -m pip install -r requirements.txt
 # Place Dataset_ATS_v2.csv inside data/ (not committed by default)
-python src/clustering.py --input data/Dataset_ATS_v2.csv --out outputs --clusters 4
+python clustering.py --input data/Dataset_ATS_v2.csv --out outputs --clusters 4
 ```
 
 ## Run on Google Colab
