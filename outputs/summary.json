@@ -1,0 +1,28 @@
+{
+  "rows": 7043,
+  "features": 11,
+  "selected_k": 4,
+  "selection_note": "Fixed k=4 prioritises interpretable, actionable segments; k=10 had maximum tested silhouette. Set --clusters 0 for automatic silhouette choice.",
+  "excluded_columns": [
+    "gender",
+    "SeniorCitizen",
+    "Dependents",
+    "Churn"
+  ],
+  "numeric_features": [
+    "tenure",
+    "MonthlyCharges"
+  ],
+  "categorical_features": [
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "Contract"
+  ],
+  "churn_column": "Churn",
+  "pca_variance_explained": [
+    0.33417261703914036,
+    0.20292925551232346
+  ],
+  "method": "Behaviour/service-plan K-means with silhouette-score selection; no churn-label leakage or demographic features"
+}

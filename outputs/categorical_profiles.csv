@@ -1,0 +1,61 @@
+cluster,feature,value,percentage
+0,PhoneService,No,21.03
+0,PhoneService,Yes,78.97
+1,PhoneService,No,0.0
+1,PhoneService,Yes,100.0
+2,PhoneService,No,0.0
+2,PhoneService,Yes,100.0
+3,PhoneService,No,28.08
+3,PhoneService,Yes,71.92
+0,MultipleLines,No,59.01
+0,MultipleLines,Yes,40.99
+1,MultipleLines,No,56.38
+1,MultipleLines,Yes,43.62
+2,MultipleLines,No,56.97
+2,MultipleLines,Yes,43.03
+3,MultipleLines,No,60.12
+3,MultipleLines,Yes,39.88
+0,InternetService,DSL,56.76
+0,InternetService,Fiber optic,43.24
+1,InternetService,DSL,54.78
+1,InternetService,Fiber optic,45.22
+2,InternetService,DSL,56.53
+2,InternetService,Fiber optic,43.47
+3,InternetService,DSL,56.16
+3,InternetService,Fiber optic,43.84
+0,Contract,Month-to-month,53.87
+0,Contract,One year,23.1
+0,Contract,Two year,23.04
+1,Contract,Month-to-month,55.04
+1,Contract,One year,21.04
+1,Contract,Two year,23.92
+2,Contract,Month-to-month,56.26
+2,Contract,One year,18.71
+2,Contract,Two year,25.03
+3,Contract,Month-to-month,54.26
+3,Contract,One year,21.79
+3,Contract,Two year,23.94
+0,Dependents,No,69.58
+0,Dependents,Yes,30.42
+1,Dependents,No,66.87
+1,Dependents,Yes,33.13
+2,Dependents,No,80.13
+2,Dependents,Yes,19.87
+3,Dependents,No,56.5
+3,Dependents,Yes,43.5
+0,gender,Female,47.96
+0,gender,Male,52.04
+1,gender,Female,49.85
+1,gender,Male,50.15
+2,gender,Female,50.47
+2,gender,Male,49.53
+3,gender,Female,49.44
+3,gender,Male,50.56
+0,SeniorCitizen,0,92.97
+0,SeniorCitizen,1,7.03
+1,SeniorCitizen,0,78.45
+1,SeniorCitizen,1,21.55
+2,SeniorCitizen,0,77.33
+2,SeniorCitizen,1,22.67
+3,SeniorCitizen,0,91.82
+3,SeniorCitizen,1,8.18
