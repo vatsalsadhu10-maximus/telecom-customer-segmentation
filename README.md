@@ -15,6 +15,38 @@ Segment telecommunications customers by their characteristics, understand differ
 
 ## Results on Dataset_ATS_v2(1).csv (7,043 customers)
 
+## Power BI — Customer Churn Analytics Dashboard
+
+Developed a Power BI dashboard to communicate the
+results of K-Means customer segmentation analysis.
+
+### Dashboard Preview
+
+![Telecom Customer Analytics Dashboard](Telecom_Dashboard.png)
+
+### Dashboard Highlights
+
+- Analysed 7,043 telecommunications customer records.
+- Visualised four distinct customer segments.
+- Compared observed customer churn rates.
+- Analysed average monthly charges by segment.
+- Identified a high-churn segment for further investigation.
+
+### Business Insights
+
+The newer, higher-spending customer segment recorded
+the highest observed churn rate (48.60%).
+
+This suggests an opportunity to investigate customer
+onboarding, service satisfaction and perceived value.
+
+The analysis is exploratory and does not establish
+the causes of customer churn.
+
+### Power BI Report
+
+[Download the Power BI Dashboard](Telecom_Customer_Segmentation_Dashboard.pbix)
+
 The final 4-cluster model produced the following descriptive customer segments (cluster identifiers have no inherent ranking):
 
 | Cluster | Business description | Customers | Share | Mean tenure | Mean monthly charges | Observed churn |
